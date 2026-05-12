@@ -1,4 +1,4 @@
-# Welcome to the Eraneos GitHub
+# Welcome to Eraneos Open Source
 
 <img width="2350" height="783" alt="ERA_LinkedIn_banner_employees" src="https://github.com/user-attachments/assets/bc6b222f-9430-4307-9cf9-476ca54f88de" />
 
