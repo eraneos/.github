@@ -1,6 +1,6 @@
 # Welcome to the Eraneos GitHub
 
-<img width="1158" height="355" alt="eraneos-github-hero" src="https://github.com/user-attachments/assets/e7785717-23e6-46d2-8f82-1b143add49ee" />
+<img width="2350" height="783" alt="ERA_LinkedIn_banner_employees" src="https://github.com/user-attachments/assets/bc6b222f-9430-4307-9cf9-476ca54f88de" />
 
 ## Together we’re shaping a new era of digital
 
