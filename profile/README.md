@@ -1,6 +1,6 @@
 # Welcome to Eraneos Open Source
 
-<img width="2350" height="783" alt="ERA_LinkedIn_banner_employees" src="https://github.com/user-attachments/assets/bc6b222f-9430-4307-9cf9-476ca54f88de" />
+<img width="5600" height="1400" alt="Eraneos_LinkedIn_Employee_Cover image_1400x350px" src="https://github.com/user-attachments/assets/5c16055a-7b60-45e8-9b83-38b8a0be5c74" />
 
 ## Together we’re shaping a new era of digital
 
